@@ -1,0 +1,20 @@
+﻿agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1,1,1,Söflingen–Böfingen,0,ED1B24,FFFFFF
+1,10,10,Donautal–Blautal-Center,3,A5A158,FFFFFF
+1,14,14,Kuhberg–Wiblingen (Pranger),3,B22C2B,FFFFFF
+1,15,15,Willy-Brandt-Platz–Science Park III,3,77B143,FFFFFF
+1,19,E,Einsatzbus,3,,
+1,2,2,Kuhberg-Science Park II,0,ED1B24,FFFFFF
+1,4,4,Wiblingen-Böfingen Süd,3,F79534,FFFFFF
+1,5,5,Ludwigsfeld/Wiley-Wissenschaftsstadt,3,1AA8BE,FFFFFF
+1,6,6,Donmaustadion-Eselsberg Hasenkopf,3,01806D,FFFFFF
+1,7,7,Willy-Brandt-Platz–Jungingen,3,B1006A,FFFFFF
+1,8,8,Grimmeflingen/Kuhberg-Universität Süd,3,76408C,FFFFFF
+1,9,9,Roter Berg–Gleißelstetten ,3,DF9CBB,FFFFFF
+1,901,N1,Ulm ZOB-Söflingen-Ermingen-Eggingen-Einsingen,3,ED1B24,FFFFFF
+1,902,N2,Ulm ZOB-Eselsberg-Blaustein-Arnegg-Herrlingen ,3,76408C,FFFFFF
+1,903,N3,Ulm ZOB-Blaubeurer Straße-Universität-Lehr-Jungingen,3,82C341,FFFFFF
+1,904,N4,Ulm ZOB-Eichberg-Böfingen ,3,05B6EC,FFFFFF
+1,905,N5,Ulm ZOB-Neu-Ulm-Offenhausen-Pfuhl-Burlafingen,3,005DA3,FFFFFF
+1,907,N7,Ulm ZOB-Wiblingen,3,E2499B,FFFFFF
+1,908,N8,Ulm ZOB-Kuhberg-Donautal-Gögglingen-Donaustetten,3,F79534,FFFFFF
