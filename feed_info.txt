@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-SWU Nahverkehr Ulm/Neu-Ulm GmbH,http://www.swu.de/privatkunden/swu-nahverkehr.html,de,,,20190409-community
+SWU Nahverkehr Ulm/Neu-Ulm GmbH,http://www.swu.de/privatkunden/swu-nahverkehr.html,de,,,20190409-community-shapes
