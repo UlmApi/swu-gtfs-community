@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-1,SWU Nahverkehr Ulm/Neu-Ulm GmbH,http://www.swu.de/privatkunden/swu-nahverkehr.html,Europe/Berlin,de,+49 731 166-0,http://www.swu.de/privatkunden/swu-nahverkehr/fahrkarten/tarife.html,
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+1,SWU Nahverkehr Ulm/Neu-Ulm GmbH,http://www.swu.de/privatkunden/swu-nahverkehr.html,Europe/Berlin,de,+49 731 166-0,http://www.swu.de/privatkunden/swu-nahverkehr/fahrkarten/tarife.html
